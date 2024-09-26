@@ -1,0 +1,7 @@
+title: "Kubernetes Notlar"
+description: "Certified Kubernetes Administration hakkında notlar."
+theme: jekyll-theme-minimal
+baseurl: "/kubernetes-notlar"
+url: "https://cagatayuresin.github.io"
+include:
+  - _pages
